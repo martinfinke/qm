@@ -45,6 +45,7 @@ cabal-version:       >=1.10
 source-repository this
   type: git
   location: https://github.com/martinfinke/qm
+  tag: stable
 
 
 library
