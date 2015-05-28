@@ -1,0 +1,5 @@
+cabal.sandbox.config
+qm.sublime-project
+qm.sublime-workspace
+.cabal-sandbox
+dist
