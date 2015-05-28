@@ -1,4 +1,6 @@
 # The Quine-McCluskey Algorithm in Haskell
+Ported to Haskell from the Python [qm](http://pypi.python.org/pypi/qm) Package and the [improved qm](http://github.com/prekageo/optistate) (including Petrick's method) by George Prekas.
+
 ## Installation
 ### From GitHub
 
